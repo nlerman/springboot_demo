@@ -9,6 +9,9 @@
     "engines": {
       "node": ">=4.0.0"
     },
+    "scripts": {
+      "sonar": "node_modules/sonar-scanner/bin/sonar-scanner.bat"
+    },
     "author": "Nick Lerman",
     "license": ""
-  }
+}
