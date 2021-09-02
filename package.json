@@ -1,18 +1,9 @@
 {
-    "name": "Hello World",
+    "name": "HelloWorld",
     "version": "0.1.0",
     "description": " Hello World ",
     "main": "index.js",
     "devDependencies": {
-      "code": "^2.1.0",
-      "eslint": "^3.18.0",
-      "eslint-plugin-import": "^2.2.0",
-      "husky": "^0.14.3",
-      "jwt-decode": "^2.0.1",
-      "lab": "^10.8.2",
-      "nodemon": "^1.12.1",
-      "plato": "^1.7.0",
-      "sinon": "^1.17.5",
       "sonarqube-scanner": "^2.0.2"
     },
     "engines": {
