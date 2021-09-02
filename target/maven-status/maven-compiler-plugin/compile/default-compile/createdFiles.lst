@@ -1,0 +1,4 @@
+com\example\postgresdemo\Value.class
+com\example\postgresdemo\SampleWebUIController.class
+com\example\postgresdemo\ValueRepository.class
+com\example\postgresdemo\PostgresDemoApplication.class
