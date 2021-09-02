@@ -1,4 +1,4 @@
 @Library("demo") _
-    base_pipeline {
+    springboot_pipeline {
         serviceName = "springboot_hello_world"
     }
